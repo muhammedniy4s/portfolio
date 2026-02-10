@@ -516,6 +516,7 @@ align-items: center;
 text-align: center;
 display: flex; 
 justify-content: center;
+margin-left: 200px;
 }
 .button{
     display: flex;
@@ -571,6 +572,7 @@ justify-content: center;
     padding: 60px;
     border-radius: 60px;
     box-shadow: 2px 14px 45px;
+    margin-left: 15px;
 }
 .contactheader{
     margin-top: 100px;
@@ -581,7 +583,7 @@ justify-content: center;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
-    padding-left:150px ;
+    padding-left:100px ;
 }
 .contactform {
     display: flex;
@@ -599,6 +601,7 @@ justify-content: center;
     padding-left: 25px;
     font-weight: 500;
     border-radius: 50px;
+    
     
 
 }
@@ -642,6 +645,7 @@ button:hover {
   justify-content: space-around;
   gap: 40px;
   margin-bottom: 20px;
+  width: auto;
 }
 
 .footer-logo h2 {
@@ -702,6 +706,8 @@ button:hover {
 
 .footer{
   margin-top: 100px;
+  width:100%;
+  padding-right: 
 }
 .download-btn {
   color: white;
